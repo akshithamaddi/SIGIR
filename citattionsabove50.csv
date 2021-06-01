@@ -1,0 +1,873 @@
+Title,Year,TotalCitationCount
+A Clustering Strategy Based on a Formalism of the Reproductive Process in Natural Systems,1979,70
+Recent trends in automatic information retrieval,1986,53
+S-tree: a dynamic balanced signature index for office retrieval,1986,163
+An experimental study of factors important in document ranking,1986,100
+User-specified domain knowledge for document retrieval,1986,65
+A Study of the Overlap Among Document Representations,1983,103
+Generalized vector spaces model in information retrieval,1985,384
+Optimization of inverted vector searches,1985,256
+The Cluster Hypothesis Revisited,1985,165
+The user's mental model of an information retrieval system,1983,260
+Automatic Phrase Indexing for Document Retrieval: An Examination of Syntactic and Non-Syntactic Methods,1987,96
+The significance of the Cranfield tests on index languages,1991,202
+Automatic text structuring and retrieval-experiments in automatic encyclopedia searching,1991,60
+The use of phrases and structured queries in information retrieval,1991,314
+Some inconsistencies and misnomers in probabilistic information retrieval,1991,69
+"To see, or not to seeâ is That the query?",1991,124
+"Integrating query thesaurus, and documents through a common visual representation",1991,85
+Using the cosine measure in a neural network for document retrieval,1991,157
+Distributed indexing: a scalable mechanism for distributed information retrieval,1991,54
+A self-organizing semantic map for information retrieval,1991,480
+Complementary structures in disjoint science literatures,1991,110
+Retrieval performance in Ferret a conceptual information retrieval system,1991,87
+The smart document retrieval project,1991,68
+Relevance feedback revisited,1992,459
+Incremental relevance feedback,1992,72
+An evaluation of phrasal and clustered representations on a text categorization task,1992,634
+Classifying news stories using memory based reasoning,1992,316
+Experiments in automatic statistical thesaurus construction,1992,200
+Use of syntactic context to produce term association lists for text retrieval,1992,173
+Retrieval activities in a database consisting of heterogeneous collections of structured text,1992,87
+Towards a probabilistic modal logic for semantic-based information retrieval,1992,68
+Latent semantic indexing is an optimal special case of multidimensional scaling,1992,101
+A system for retrieving speech documents,1992,74
+Probabilistic retrieval based on staged logistic regression,1992,167
+Automating the assignment of submitted manuscripts to reviewers,1992,189
+Parameterised compression for sparse bitmaps,1992,75
+Scatter/Gather: A Cluster-based Approach to Browsing Large Document Collections,1992,391
+Bead: explorations in information visualization,1992,274
+The dynamic HomeFinder: evaluating dynamic queries in a real-estate information exploration system,1992,246
+On the use of spreading activation methods in automatic information,1988,223
+A cluster-based approach to thesaurus construction,1988,53
+Information Retrieval using a Singular Value Decomposition Model of Latent Semantic Structure,1988,192
+An outline of a general model for information retrieval systems,1988,53
+Relevance feedback and inference networks,1993,142
+Automatic indexing based on Bayesian inference networks,1993,161
+Overview of the first TREC conference,1993,191
+Approaches to passage retrieval in full text information systems,1993,444
+Subtopic structuring for full-length document access,1993,424
+The identification of important concepts in highly structured technical papers,1993,186
+Cluster analysis for hypertext systems,1993,114
+Constant interaction-time scatter/gather browsing of very large document collections,1993,255
+A user-centred evaluation of ranking algorithms for interactive query expansion,1993,52
+Concept based query expansion,1993,615
+Using WordNet to disambiguate word senses for text retrieval,1993,569
+MURAX: a robust linguistic approach for question answering using an on-line encyclopedia,1993,183
+Viewing morphology as an inference process,1993,769
+Retrieval from hierarchical texts by partial patterns,1993,73
+A comparison of indexing techniques for Japanese text retrieval,1993,86
+A model of information retrieval based on a terminological logic,1993,164
+Using statistical testing in the evaluation of retrieval experiments,1993,550
+The effect multiple query representations on information retrieval system performance,1993,203
+Inference Networks for Document Retrieval,1989,449
+A direct manipulation interface for boolean information retrieval via natural language query,1989,84
+Experiments with query acquisition and use in document retrieval systems,1989,83
+Term clustering of syntactic phrases,1989,135
+Optimization for dynamic inverted index maintenance,1989,154
+Adaptive Information Retrieval: Using a Connectionist Representation to Retrieve and Learn About Documents,1989,145
+A neural network for probabilistic information retrieval,1989,131
+Design of a browsing interface for information retrieval,1989,105
+A Library System for Information Retrieval Based on a Cognitive Task Analysis and Supported by an Icon-Based Interface,1989,54
+Towards an information logic,1989,172
+Storing text retrieval systems on CD-ROM: compression and encryption considerations,1989,55
+A new approach to text searching,1989,300
+Full text indexing based on lexical relations an application: software libraries,1989,81
+Dissemination of collection wide information in a distributed information retrieval system,1995,77
+Searching Distributed Collections with Inference Networks,1995,647
+Fast evaluation of structured queries for information retrieval,1995,90
+A trainable document summarizer,1995,1383
+Generating summaries of multiple news articles,1995,366
+Integrating IR and RDBMS using cooperative indexing,1995,51
+A language for queries on structure and contents of textual databases,1995,64
+Little words can make a big difference for text classification,1995,152
+Evaluation of evaluation in information retrieval,1995,261
+Learning collection fusion strategies,1995,241
+Combining multiple evidence from different properties of weighting schemes,1995,243
+A comparison of classifiers and document representations for the routing problem,1995,531
+Evaluating and optimizing autonomous text classification systems,1995,384
+Noise reduction in a statistical approach to text categorization,1995,224
+Cluster-based text categorization: a comparison of category search strategies,1995,160
+Probabilistic Datalogica logic for powerful retrieval methods,1995,158
+Relevance feedback with too much data,1995,107
+On the reuse of past optimal queries,1995,157
+Query Expansion Using Local and Global Document Analysis,1996,1209
+Pivoted document length normalization,1996,657
+Retrieving spoken documents by combining multiple index sources,1996,152
+Viewing stemming as recall enhancement,1996,206
+Querying across languages: a dictionary-based approach to multilingual information retrieval,1996,374
+Experiments in multilingual information retrieval using the SPIDER system,1996,249
+Visualizing search results: some alternatives to query-document similarity,1996,182
+Reexamining the cluster hypothesis: scatter/gather on retrieval results,1996,944
+Evaluation of a tool for visualization of information retrieval results,1996,120
+Evaluating user interfaces to information retrieval systems: a case study on user support,1996,118
+Phonetic string matching: lessons from information retrieval,1996,248
+Experiments on using semantic distances between words in image caption retrieval,1996,219
+A new method of weighting query terms for ad-hoc retrieval,1996,65
+A relevance terminological logic for information retrieval,1996,76
+Using n-grams for Korean text retrieval,1996,57
+A belief network model for IR,1996,144
+Document filtering with inference networks,1996,119
+Incremental relevance feedback for information filtering,1996,144
+Method combination for document filtering,1996,77
+Combining classifiers in text categorization,1996,287
+Context-sensitive learning methods for text categorization,1996,444
+Detection of shifts in user interests for personalized information filtering,1996,78
+Fast and effective query refinement,1997,79
+On relevance weights with little relevance information,1997,115
+Learning routing queries in a query zone,1997,112
+Comparing representations in Chinese information retrieval,1997,96
+Chinese text retrieval without using a dictionary,1997,62
+PAT-tree-based keyword extraction for Chinese information retrieval,1997,183
+"Feature selection, perceptron learning, and a usability case study for text categorization",1997,352
+Projections for efficient document clustering,1997,187
+Phrasal translation and query expansion techniques for cross-language information retrieval,1997,294
+QUILT: implementing a large-scale cross-language text retrieval system,1997,65
+Dempster-Shafer's theory of evidence applied to structured documents: modelling uncertainty,1997,72
+Guessing morphology from terms and corpora,1997,58
+Passage retrieval revisited,1997,199
+Exploration of text collections with hierarchical feature maps,1997,50
+Effectiveness of a graphical display of retrieval results,1997,58
+Cat-a-Cone: an interactive interface for specifying searches and viewing retrieval results using a large category hierarchy,1997,166
+A probabilistic model for distributed information retrieval,1997,54
+Analyses of multiple evidence combination,1997,465
+Using semantic contents and WordNet in image retrieval,1997,69
+Image retrieval by hypertext links,1997,74
+Automatic feedback using past queries: social searching?,1997,133
+Exploiting clustering and phrases for context-based information retrieval,1997,80
+The potential and actual effectiveness of interactive query expansion,1997,116
+Advantages of query biased summaries in information retrieval,1998,335
+A theory of term weighting based on exploratory data analysis,1998,61
+New techniques for open-vocabulary spoken document retrieval,1998,55
+A study of retrospective and on-line event detection,1998,543
+On-Line New Event Detection and Tracking,1998,62
+Web document clustering: a feasibility demonstration,1998,829
+The effects of query structure and dictionary setups in dictionary-based cross-language information retrieval,1998,200
+Resolving ambiguity for cross-language retrieval,1998,242
+Cross-language information retrieval with the UMLS metathesaurus,1998,56
+Using a generalized instance set for automatic text categorization,1998,155
+Automatic essay grading using text categorization techniques,1998,189
+Distributional clustering of words for text classification,1998,601
+Improved algorithms for topic distillation in a hyperlinked environment,1998,540
+Effective retrieval with distributed collections,1998,147
+Evaluating database selection techniques: a testbed and experiment,1998,69
+The impact of query structure and query expansion on retrieval performance,1998,82
+A flexible model for retrieval of SGML documents,1998,106
+Discovering typical structures of documents: a road map approach,1998,97
+Comparing interactive information retrieval systems across sites: the TREC-6 interactive track matrix experiment,1998,62
+"Aspect windows, 3-D visualizations, and indirect comparisons of information retrieval systems",1998,72
+Predicting the performance of linearly combined IR systems,1998,96
+Improving automatic query expansion,1998,475
+Boosting and Rocchio applied to text filtering,1998,276
+Learning while filtering documents,1998,51
+Spatial querying for image retrieval: a user-oriented evaluation,1998,80
+Extracting classification knowledge of Internet documents with mining term associations: a semantic approach,1998,69
+Improving two-stage ad-hoc retrieval for short queries,1998,66
+RELIEF: combining expressiveness and rapidity into a single system,1998,50
+A Language Modeling Approach to Information Retrieval,1998,2041
+Efficient construction of large test collections,1998,179
+Compressed inverted files with reduced decoding overheads,1998,58
+How reliable are the results of large-scale information retrieval experiments?,1998,397
+Variations in relevance judgments and the measurement of retrieval effectiveness,1998,94
+Measures of relative relevance and ranked half-life: performance indicators for interactive IR,1998,78
+"The use of MMR, diversity-based reranking for reordering documents and producing summaries",1998,278
+Applying summarization techniques for term selection in relevance feedback,2001,126
+Temporal summaries of new topics,2001,126
+Generic text summarization using relevance measure and latent semantic analysis,2001,567
+A new approach to unsupervised text summarization,2001,116
+Vector-space ranking with effective early termination,2001,166
+Static index pruning for information retrieval systems,2001,177
+Rank-preserving two-level caching for scalable search engines,2001,120
+Ranking retrieval systems without relevance judgments,2001,187
+Evaluation by highly relevant documents,2001,175
+Improving query translation for cross-language information retrieval using statistical models,2001,106
+Evaluating a probabilistic model for cross-lingual information retrieval,2001,107
+"Document Language Models, Query Models, and Risk Minimization for Information Retrieval",2001,596
+Relevance-Based Language Models,2001,1067
+A statistical learning learning model of text classification for support vector machines,2001,128
+A study of thresholding strategies for text categorization,2001,262
+On feature distributional clustering for text categorization,2001,104
+XIRQL: a query language for information retrieval in XML documents,2001,240
+Generic summaries for indexing in information retrieval,2001,64
+Automatic generation of concise summaries of spoken dialogues in unrestricted domains,2001,58
+"Enhanced topic distillation using text, markup tags, and hyperlinks",2001,99
+Transparent Queries: investigation users' mental models of search engines,2001,65
+Why batch and user evaluations do not give the same results,2001,129
+Evaluating topic-driven web crawlers,2001,164
+Effective site finding using link anchor information,2001,237
+Stable algorithms for link analysis,2001,207
+Modeling score distributions for combining the outputs of search engines,2001,173
+Models for metasearch,2001,527
+The score-distributional threshold optimization for adaptive binary classification tasks,2001,50
+Maximum likelihood estimation for filtering thresholds,2001,111
+Unsupervised and supervised clustering for topic tracking,2001,58
+A Study of Smoothing Methods for Language Models Applied to Ad Hoc Information Retrieval,2001,269
+Topic segmentation with an aspect hidden Markov model,2001,147
+Finding topic words for hierarchical summarization,2001,136
+Exploiting redundancy in question answering,2001,201
+High performance question/answering,2001,119
+Text summarization via hidden Markov models,2001,210
+"Reading time, scrolling and interaction: exploring implicit sources of user preferences for relevance feedback",2001,122
+Modifications of Kleinberg's HITS algorithm using matrix exponentiation and web log records,2001,63
+"Visualization of search results: a comparative evaluation of text, 2D, and 3D interfaces",1999,164
+âUser revealmentââa comparison of initial queries and ensuing question development in online searching and in human reference interactions,1999,55
+From reading to retrieval: freeform ink annotations as queries,1999,76
+SCAN: designing and evaluating user interfaces to support retrieval from speech archives,1999,80
+Document expansion for speech retrieval,1999,143
+A re-examination of text categorization methods,1999,1794
+Probabilistic latent semantic indexing,1999,3201
+A similarity-based probability model for latent semantic indexing,1999,95
+Cross-language information retrieval based on parallel texts and automatic mining of parallel texts from the Web,1999,219
+Efficient distributed algorithms to build inverted files,1999,53
+Effective document presentation with a locality-based similarity heuristic,1999,65
+Summarizing text documents: sentence selection and evaluation metrics,1999,403
+The decomposition of human-written summary sentences,1999,129
+The automatic construction of large-scale corpora for summarization research,1999,106
+The paraphrase search assistant: terminological feedback for iterative information seeking,1999,121
+Phrasier: a system for interactive document retrieval using keyphrases,1999,77
+Content-based retrieval for music collections,1999,84
+Relevance feedback retrieval of time series data,1999,74
+Combining multiple evidence from different types of thesaurus for query expansion,1999,121
+Deriving concept hierarchies from text,1999,548
+A hidden Markov model information retrieval system,1999,353
+Information Retrieval as Statistical Translation,1999,471
+An algorithmic framework for performing collaborative filtering,1999,234
+Comparing the performance of database selection algorithms,1999,127
+A probabilistic solution to the selection and fusion problem in distributed information retrieval,1999,62
+Cluster-based language models for distributed retrieval,1999,269
+Using sampled data and regression to merge search engine results,2002,65
+The Importance of Prior Probabilities for Entry Page Search,2002,242
+Term-specific smoothing for the language modeling approach to information retrieval: the importance of a query term,2002,71
+Title language model for information retrieval,2002,74
+Two-stage language models for information retrieval,2002,170
+Finding relevant documents using top ranking sentences: an evaluation of two alternative schemes,2002,109
+Detecting and Browsing Events in Unstructured text,2002,62
+Novelty and redundancy detection in adaptive filtering,2002,341
+Bayesian online classifiers for text classification and filtering,2002,101
+The use of unlabeled data to improve supervised learning for text summarization,2002,77
+Generic summarization and keyphrase extraction using mutual reinforcement principle and sentence clustering,2002,234
+Cross-document summarization by concept classification,2002,61
+Unsupervised document classification using sequential information maximization,2002,230
+Text genre classification with genre-revealing and subject-revealing features,2002,111
+A new family of online algorithms for category ranking,2002,82
+Comparing cross-language query expansion techniques by degrading translation resources,2002,71
+Statistical cross-language information retrieval using n-best query translations,2002,64
+Cross-lingual relevance models,2002,181
+Resolving query translation ambiguity using a decaying co-occurrence model and syntactic dependence relations,2002,76
+Document clustering with cluster refinement and model selection capabilities,2002,94
+Document clustering with committees,2002,138
+Probabilistic combination of text classifiers using reliability indicators: models and results,2002,51
+Efficient phrase querying with an auxiliary index,2002,52
+Compression of inverted indexes For fast query evaluation,2002,209
+Collaborative filtering with privacy via factor analysis,2002,421
+Methods and metrics for cold-start recommendations,2002,1159
+Empirical studies in strategies for Arabic retrieval,2002,89
+Improving stemming for Arabic information retrieval: light stemming and co-occurrence analysis,2002,286
+Automatic query wefinement using lexical affinities with maximal information gain,2002,80
+Web question answering: is more always better?,2002,258
+Predicting query performance,2002,531
+Using part-of-speech patterns to reduce query ambiguity,2002,85
+The effect of topic set size on retrieval experiment error,2002,189
+Liberal relevance criteria of TREC -: counting on negligible documents?,2002,139
+Video retrieval using an MPEG-7 based inference network,2002,51
+"PageRank, HITS and a unified framework for link analysis",2002,144
+Do thumbnail previews help users make better relevance decisions about web search results?,2002,67
+Spatial information retrieval and geographical ontologies an overview of the SPIRIT project,2002,134
+Automatic evaluation of world wide web search services,2002,56
+Biterm language models for document retrieval,2002,82
+Relevance and contributing information types of searched documents in task performance,2000,65
+Do batch and user evaluations give the same results?,2000,105
+Evaluating evaluation measure stability,2000,63
+IR evaluation methods for retrieving highly relevant documents,2000,132
+Automatic generation of overview timelines,2000,181
+Improving text categorization methods for event tracking,2000,116
+Evaluation of a simple and effective music information retrieval method,2000,78
+Phonetic confusion matrix based spoken document retrieval,2000,73
+Link-based and content-based evidential information in a belief network model,2000,71
+OCELOT: a system for summarizing Web pages,2000,138
+Extracting sentence segments for text summarization: a machine learning approach,2000,109
+An experimental comparison of naive Bayesian and keyword-based anti-spam filtering with personal e-mail messages,2000,345
+Text filtering by boosting naive Bayes classifiers,2000,57
+Question-answering by predictive annotation,2000,183
+Bridging the lexical chasm: statistical approaches to answer-finding,2000,220
+Building a question answering test collection,2000,233
+Document clustering using word clusters via the information bottleneck method,2000,357
+Latent semantic space: iterative scaling improves precision of inter-document similarity measurement,2000,61
+An investigation of linguistic features and clustering algorithms for topical document clustering,2000,94
+The impact of database selection on distributed searching,2000,118
+Hierarchical classification of Web content,2000,631
+A practical hypertext catergorization method using links and incrementally available class information,2000,140
+Topical locality in the Web,2000,232
+"Interactive Internet search: keyword, directory and query reformulation mechanisms compared",2000,71
+Incorporating quality metrics in centralized/distributed information retrieval on the World Wide Web,2000,165
+Does âauthorityâ mean quality? predicting expert quality ratings of Web documents,2000,167
+Effects of out of vocabulary words in spoken document retrieval (poster session),2000,67
+Bayesian extension to the language model for ad hoc information retrieval,2003,53
+Question classification using support vector machines,2003,422
+Structured use of external knowledge for event-based open domain question answering,2003,76
+Quantitative evaluation of passage retrieval algorithms for question answering,2003,256
+Building a web thesaurus from web link structure,2003,52
+Implicit link analysis for small web search,2003,51
+Query type classification for web document retrieval,2003,204
+Search strategies in content-based image retrieval,2003,50
+Using terminological feedback for web search refinement: a log-based study,2003,241
+A scalability analysis of classifiers in text categorization,2003,127
+A repetition based measure for verification of text collections and for text categorization,2003,73
+Automatic image annotation and retrieval using cross-media relevance models,2003,954
+Modeling annotated data,2003,893
+Combining document representations for known-item search,2003,208
+Searching XML documents via XML fragments,2003,174
+Word sense disambiguation in information retrieval revisited,2003,148
+Text categorization by boosting automatically extracted concepts,2003,100
+Robustness of regularized linear classification methods in text categorization,2003,65
+Building and applying a concept hierarchy representation of a user profile,2003,53
+Query length in interactive information retrieval,2003,109
+Re-examining the potential effectiveness of interactive query expansion,2003,162
+Table extraction using conditional random fields,2003,300
+Building a filtering test collection for TREC 2002,2003,56
+Collaborative filtering via gaussian probabilistic latent semantic analysis,2003,318
+Document clustering based on non-negative matrix factorization,2003,1092
+ReCoM: reinforcement clustering of multi-type interrelated data objects,2003,88
+A comparative study on content-based music genre classification,2003,305
+Evaluating different methods of estimating retrieval quality for resource selection,2003,95
+Relevant document distribution estimation method for resource selection,2003,222
+SETS: search enhanced by topic segmentation,2003,141
+Retrieval and novelty detection at the sentence level,2003,218
+Domain-independent text segmentation using anisotropic diffusion and dynamic programming,2003,58
+A System for new event detection,2003,218
+Probabilistic structured query methods,2003,88
+Investigating the relationship between language model perplexity and IR precision-recall measures,2003,90
+Popular music retrieval by detecting mood,2003,86
+Single n-gram stemming,2003,88
+On an equivalence between PLSI and LDA,2003,146
+Query word deletion prediction,2003,62
+An information-theoretic measure for document similarity,2003,60
+Generating hierarchical summaries for web searches,2003,93
+Analysis of anchor text for web search,2003,168
+Evaluating high accuracy retrieval techniques,2004,62
+Using temporal profiles of queries for precision prediction,2004,89
+Retrieval evaluation with incomplete information,2004,542
+Forming test collections with no system pooling,2004,92
+Building an information retrieval test collection for spontaneous conversational speech,2004,53
+A formal study of information retrieval heuristics,2004,221
+Discriminative models for information retrieval,2004,228
+The overlap problem in content-oriented XML retrieval evaluation,2004,80
+Length normalization in XML retrieval,2004,68
+Locality preserving indexing for document representation,2004,112
+On scaling latent semantic indexing for large peer-to-peer systems,2004,66
+GaP: a factor model for discrete data,2004,152
+Translating unknown queries with web corpora for cross-language information retrieval,2004,74
+Using the web for automated translation extraction in cross-language information retrieval,2004,76
+Dependence language model for information retrieval,2004,194
+Parsimonious language models for information retrieval,2004,107
+Cluster-based retrieval using language models,2004,355
+"Corpus structure, language models, and ad hoc information retrieval",2004,126
+Document clustering by concept factorization,2004,139
+Learning to cluster web search results,2004,496
+Document clustering via adaptive subspace iteration,2004,91
+Feature selection using linear classifier weights: interaction with classification models,2004,140
+Web-page classification through summarization,2004,147
+Parameterized generation of labeled datasets for text categorization based on a hierarchical directory,2004,64
+Information retrieval using word senses: root sense tagging approach,2004,64
+An effective approach to document retrieval via utilizing WordNet and recognizing phrases,2004,226
+Web-a-where: geotagging web content,2004,420
+Text classification and named entities for new event detection,2004,297
+Hourly analysis of a very large topically categorized web query log,2004,246
+A collaborative filtering algorithm and evaluation metric that accurately model the user experience,2004,261
+An automatic weighting scheme for collaborative filtering,2004,232
+A nonparametric hierarchical bayesian framework for information filtering,2004,56
+Automatic image annotation by using concept-sensitive salient objects for image content representation,2004,61
+A search engine for historical manuscript images,2004,117
+Display time as implicit feedback: understanding task effects,2004,198
+Query based event extraction along a timeline,2004,111
+Sentence completion,2004,54
+Block-level link analysis,2004,133
+Block-based web search,2004,125
+Eye-tracking analysis of user behavior in WWW search,2004,480
+The NRRC reliable information access (RIA) workshop,2004,84
+Implicit queries (IQ) for contextualized search,2004,58
+Better than the real thing?: iterative pseudo-query processing using cluster-based language models,2005,58
+The maximum entropy method for analyzing retrieval measures,2005,52
+A study of factors affecting the utility of implicit relevance feedback,2005,95
+Context-sensitive information retrieval using implicit feedback,2005,398
+Active feedback in ad hoc information retrieval,2005,86
+Improving collection selection with overlap awareness in P2P search engines,2005,75
+Modeling search engine effectiveness for federated search,2005,74
+A probabilistic model for retrospective news event detection,2005,136
+Scalable collaborative filtering using cluster-based smoothing,2005,469
+OCFS: optimal orthogonal centroid feature selection for text categorization,2005,72
+SimFusion: measuring similarity using unified relationship matrix,2005,87
+Combining eye movements and collaborative filtering for proactive information retrieval,2005,75
+Accurately interpreting clickthrough data as implicit feedback,2005,917
+"Information retrieval system evaluation: effort, sensitivity, and reliability",2005,291
+Detecting phrase-level duplication on the world wide web,2005,102
+Using ODP metadata to personalize search,2005,255
+Exploiting the hierarchical structure for link analysis,2005,81
+Web-page summarization using clickthrough data,2005,84
+Topic themes for multi-document summarization,2005,109
+Optimization strategies for complex queries,2005,94
+Simplified similarity scoring using term ranks,2005,59
+Efficient and self-tuning incremental query expansion for top-k query processing,2005,64
+Multi-label informed latent semantic indexing,2005,172
+Text classification with kernels on the multinomial manifold,2005,59
+Multi-labelled classification using maximum entropy method,2005,160
+Linear discriminant model for information retrieval,2005,75
+Integrating word relationships into language models,2005,123
+PageRank without hyperlinks: structural re-ranking using links induced by language models,2005,139
+Learning to extract information from semi-structured text using a discriminative context free grammar,2005,65
+"On the collective classification of email ""speech acts""",2005,136
+Using term informativeness for named entity detection,2005,56
+Question answering passage retrieval using dependency relations,2005,180
+A study of relevance propagation for web search,2005,75
+Relevance weighting for query independent evidence,2005,133
+Detecting dominant locations from search queries,2005,66
+"When will information retrieval be ""good enough""?",2005,72
+Personalizing search via automated analysis of interests and activities,2005,470
+The loquacious user: a document-independent source of terms for query expansion,2005,73
+A Markov random field model for term dependencies,2005,737
+An exploration of axiomatic approaches to information retrieval,2005,120
+Impedance coupling in content-targeted advertising,2005,159
+Improving web search results using affinity graph,2005,166
+Learning to estimate query difficulty: including applications to missing content detection and distributed information retrieval,2005,180
+Iterative translation disambiguation for cross-language information retrieval,2005,58
+Hidden Markov models for automatic annotation and content-based retrieval of images and video,2005,54
+Exploiting ontologies for automatic image annotation,2005,96
+A testbed for people searching strategies in the WWW,2005,69
+Automatic web query classification using labeled and unlabeled training data,2005,73
+Relation between PLSA and NMF and implications,2005,220
+Finding semantically similar questions based on their answers,2005,72
+Major topic detection and its application to opinion summarization,2005,61
+Learning user interaction models for predicting web search result preferences,2006,396
+User performance versus precision measures for simple search tasks,2006,258
+Improving web search ranking by incorporating user behavior information,2006,53
+Contextual search and name disambiguation in email using graphs,2006,158
+Thread detection in dynamic text message streams,2006,68
+Formal models for expert finding in enterprise corpora,2006,501
+Spoken document retrieval from call-center conversations,2006,64
+"Respect my authority!: HITS without hyperlinks, utilizing cluster-based language models",2006,84
+Topical link analysis for web search,2006,102
+The role of knowledge in conceptual retrieval: a study in the domain of clinical medicine,2006,50
+Semantic term matching in axiomatic approaches to information retrieval,2006,92
+On-line spam filter fusion,2006,50
+Building bridges for web query classification,2006,203
+ProbFuse: a probabilistic approach to data fusion,2006,71
+Improving the estimation of relevance models using large external corpora,2006,169
+Regularized estimation of mixture models for robust pseudo-relevance feedback,2006,161
+LDA-based document models for ad-hoc retrieval,2006,788
+Adapting ranking SVM to document retrieval,2006,368
+Combining bidirectional translation and synonymy for cross-language information retrieval,2006,53
+Answering complex questions with random walk models,2006,60
+A framework to predict the quality of answers with non-textual features,2006,275
+Latent semantic analysis for multiple-type interrelated data objects,2006,50
+Identifying comparative sentences in text documents,2006,312
+Tackling concept drift by temporal inductive transfer,2006,74
+Minimal test collections for retrieval evaluation,2006,192
+Finding near-duplicate web pages: a large-scale evaluation of algorithms,2006,370
+Generalizing PageRank: damping functions for link-based ranking algorithms,2006,89
+Capturing collection size for distributed non-cooperative retrieval,2006,58
+Load balancing for term-distributed parallel retrieval,2006,73
+"Type less, find more: fast autocompletion search with a succinct index",2006,165
+Pruned query evaluation using pre-computed impacts,2006,132
+What makes a query difficult?,2006,160
+On ranking the effectiveness of searches,2006,55
+Document clustering with prior knowledge,2006,109
+Text clustering with extended user feedback,2006,63
+Near-duplicate detection by instance-level constrained clustering,2006,80
+Less is more: probabilistic models for retrieving fewer relevant documents,2006,270
+High accuracy retrieval with multiple nested ranker,2006,70
+Elicitation of term relevance feedback: an investigation of term source and context,2006,63
+Find-similar: similarity browsing as a search tool,2006,53
+Large scale semi-supervised linear SVMs,2006,174
+Graph-based text classification: learn from your neighbors,2006,127
+Unifying user-based and item-based collaborative filtering approaches by similarity fusion,2006,445
+Personalized recommendation driven by information flow,2006,107
+Analysis of a low-dimensional linear model under recommendation attacks,2006,50
+Evaluating evaluation metrics based on the bootstrap,2006,157
+Statistical precision of information retrieval evaluation,2006,64
+A statistical method for system evaluation using incomplete judgments,2006,136
+Learning to advertise,2006,121
+You are what you say: privacy risks of public mentions,2006,69
+A compositional context sensitive multi-document summarizer: exploring the factors that influence summarization,2006,168
+Information graphics: an untapped resource for digital libraries,2006,63
+Term proximity scoring for ad-hoc retrieval on very large text collections,2006,130
+Authorship attribution with thousands of candidate authors,2006,73
+Building a test collection for complex document information processing,2006,85
+Improving personalized web search using result diversification,2006,200
+History repeats itself: repeat queries in Yahoo's logs,2006,60
+Personalized query expansion for the web,2007,252
+Using query contexts in information retrieval,2007,82
+Towards task-based personal information management evaluations,2007,89
+Effective missing data prediction for collaborative filtering,2007,306
+Efficient bayesian hierarchical user modeling for recommendation system,2007,152
+Reliable information retrieval evaluation with incomplete and biased judgements,2007,89
+Alternatives to Bpref,2007,97
+An interactive algorithm for asking and incorporating feature feedback into support vector machines,2007,58
+Learn from web search logs to organize search results,2007,194
+Towards automatic extraction of event and place semantics from flickr tags,2007,426
+Hierarchical classification for automatic image annotation,2007,66
+Fast generation of result snippets in web search,2007,128
+The influence of caption features on clickthrough patterns in web search,2007,94
+Information re-retrieval: repeat queries in Yahoo's logs,2007,252
+Studying the use of popular destinations to enhance web search interaction,2007,188
+Efficient document retrieval in main memory,2007,109
+The impact of caching on search engines,2007,167
+Pruning policies for two-tiered inverted index with correctness guarantee,2007,72
+Analyzing feature trajectories for event detection,2007,151
+New event detection based on indexing-tree and named entity,2007,91
+Robust classification of rare queries using web knowledge,2007,160
+Random walks on the click graph,2007,389
+Investigating the querying and browsing behavior of advanced search engine users,2007,119
+A support vector method for optimizing average precision,2007,513
+Ranking with multiple hyperplanes,2007,83
+A regression framework for learning ranking functions using relative relevance judgments,2007,139
+An exploration of proximity measures in information retrieval,2007,198
+Estimation and use of uncertainty in pseudo-relevance feedback,2007,76
+Latent concept expansion using markov random fields,2007,184
+Structured retrieval for question answering,2007,78
+Strategic system comparisons via targeted relevance judgments,2007,59
+FRank: a ranking method with fidelity loss,2007,161
+AdaRank: a boosting algorithm for information retrieval,2007,597
+A combined component approach for finding collection-adapted ranking functions based on genetic programming,2007,54
+Feature selection for ranking,2007,187
+Relaxed online SVMs for spam filtering,2007,186
+Know your neighbors: web spam detection using the web topology,2007,286
+DiffusionRank: a possible penicillin for web spamming,2007,81
+Towards musical query-by-semantic-description using the CAL500 data set,2007,126
+A music search engine built upon audio-based and web-based similarity measures,2007,94
+Building simulated queries for known-item topics: an analysis using six european languages,2007,96
+Cross-lingual query suggestion using query logs of different languages,2007,51
+Hits on the web: how does it compare?,2007,62
+Hits hits TREC: exploring IR evaluation results with network analysis,2007,55
+Combining content and link for classification using matrix factorization,2007,189
+A time machine for text search,2007,85
+Principles of hash-based text retrieval,2007,74
+Query performance prediction in web search environments,2007,164
+Broad expertise retrieval in sparse data environments,2007,123
+A semantic approach to contextual advertising,2007,250
+How well does result relevance predict session satisfaction?,2007,112
+Performance prediction using spatial autocorrelation,2007,50
+An outranking approach for rank aggregation in information retrieval,2007,76
+ARSA: a sentiment-aware model for predicting sales performance using blogs,2007,192
+Vocabulary independent spoken term detection,2007,167
+Context sensitive stemming for web search,2007,78
+Knowledge-intensive conceptual retrieval and passage extraction of biomedical literature,2007,67
+"ESTER: efficient search on text, entities, and relations",2007,127
+Recommending citations for academic papers,2007,115
+What emotions do news articles trigger in their readers?,2007,79
+Evaluating discourse-based answer extraction for why-question answering,2007,53
+The relationship between IR effectiveness measures and user satisfaction,2007,122
+Varying approaches to topical web query classification,2007,74
+Clustering short texts using wikipedia,2007,244
+Enhancing patent retrieval by citation analysis,2007,75
+Improving weak ad-hoc queries using wikipedia asexternal corpus,2007,86
+Matching resumes and jobs based on relevance models,2007,52
+The utility of linguistic rules in opinion mining,2007,153
+Active learning for class imbalance problem,2007,95
+Strategies for retrieving plagiarized documents,2007,90
+Incorporating term dependency in the dfr framework,2007,57
+Hits on question answer portals: exploration of link analysis for author ranking,2007,65
+Feature engineering for mobile (SMS) spam filtering,2007,69
+Query suggestion based on user landing pages,2007,56
+Score standardization for inter-collection comparison of retrieval systems,2008,56
+Attack resistant collaborative filtering,2008,80
+EigenRank: a ranking-oriented approach to collaborative filtering,2008,223
+Personalized active learning for collaborative filtering,2008,100
+Directly optimizing evaluation measures in learning to rank,2008,90
+Query dependent ranking using K-nearest neighbor,2008,131
+Asymmetric distance estimation with sketches for similarity search in high-dimensional spaces,2008,73
+ResIn: a combination of results caching and index pruning for high-performance web search engines,2008,54
+User adaptation: good results from poor systems,2008,70
+Exploring folksonomy for personalized search,2008,231
+To personalize or not to personalize: modeling queries with variation in user intent,2008,217
+Enhancing text clustering by leveraging Wikipedia semantics,2008,159
+A study of methods for negative relevance feedback,2008,90
+A cluster-based resampling method for pseudo-relevance feedback,2008,127
+Selecting good expansion terms for pseudo-relevance feedback,2008,304
+Learning to rank with partially-labeled data,2008,69
+Learning to rank at query-time using association rules,2008,58
+Query-sensitive mutual reinforcement chain and its application in query-oriented multi-document summarization,2008,72
+Comments-oriented document summarization: understanding documents with readers' feedback,2008,87
+Multi-document summarization using cluster-based link analysis,2008,219
+Multi-document summarization via sentence-level semantic analysis and symmetric matrix factorization,2008,225
+Algorithmic mediation for collaborative exploratory search,2008,140
+A user browsing model to predict search engine click data from past observations.,2008,298
+Learning query intent from regularized click graphs,2008,255
+Retrieval and feedback models for blog feed search,2008,114
+Learning to reduce the semantic gap in web image retrieval and annotation,2008,102
+A lattice-based approach to query-by-example spoken document retrieval,2008,50
+A unified and discriminative model for query refinement,2008,94
+Query expansion using gaze-based feedback on the subdocument level,2008,75
+Affective feedback: an investigation into the role of emotions in the information seeking process,2008,74
+Optimizing relevance and revenue in ad search: a query substitution approach,2008,84
+A generation model to unify topic relevance and lexicon-based sentiment for opinion retrieval,2008,73
+TF-IDF uncovered: a study of theories and probabilities,2008,62
+BrowseRank: letting web users vote for page importance,2008,131
+Finding question-answer pairs from online forums,2008,182
+Retrieval models for question and answer archives,2008,295
+Predicting information seeker satisfaction in community question answering,2008,187
+Discovering key concepts in verbose queries,2008,212
+Ambiguous queries: test collections need more sense,2008,113
+Real-time automatic tag recommendation,2008,209
+Efficient top-k querying over social-tagging networks,2008,133
+Social tag prediction,2008,276
+SpotSigs: robust and efficient near duplicate detection in large web collections,2008,133
+Local text reuse detection,2008,79
+A new rank correlation coefficient for information retrieval,2008,179
+Learning from labeled features using generalized expectation criteria,2008,215
+A simple and efficient sampling method for estimating AP and NDCG,2008,205
+A general optimization framework for smoothing language models on graph structures,2008,53
+Deep classification in large-scale text hierarchies,2008,130
+Topic-bridged PLSA for cross-domain text classification,2008,166
+Evaluation over thousands of queries,2008,76
+Novelty and diversity in information retrieval evaluation,2008,688
+Relevance assessment: are judges exchangeable and does it matter,2008,144
+A new interpretation of average precision,2008,86
+Exploring mouse movements for inferring query intent,2008,65
+Exploring question subjectivity prediction in community QA,2008,54
+Combining learn-based and lexicon-based techniques for sentiment detection without using labeled examples,2008,57
+Privacy-aware image classification and search,2012,57
+Manhattan hashing for large-scale image retrieval,2012,73
+Diversity by proportionality: an election-based approach to search result diversification,2012,119
+Explicit relevance models in intent-oriented information retrieval diversification,2012,58
+Time-based calibration of effectiveness measures,2012,154
+Combining inverted indices and structured search for ad-hoc object retrieval,2012,53
+TFMAP: optimizing MAP for top-n context-aware recommendation,2012,141
+Adaptive diversification of recommendation results via latent factor portfolio,2012,57
+Modeling the impact of short- and long-term behavior on search personalization,2012,189
+Improving searcher models using mouse cursor activity,2012,63
+Mining query subtopics from search log data,2012,54
+Proximity-based rocchio's model for pseudo relevance,2012,59
+Modeling user posting behavior on social media,2012,73
+Friend or frenemy?: predicting signed ties in social networks,2012,66
+Social-network analysis using topic models,2012,62
+Cognos: crowdsourcing search for topic experts in microblogs,2012,147
+Time-sensitive query auto-completion,2012,96
+Learning to predict response times for online query scheduling,2012,54
+Learning to rank social update streams,2012,50
+Collaborative personalized tweet recommendation,2012,176
+Exploring social influence for recommendation: a generative model approach,2012,150
+TwiNER: named entity recognition in targeted twitter stream,2012,188
+Adaptive context features for toponym resolution in streaming news,2012,68
+Structural relationships for large-scale learning of answer re-ranking,2012,70
+Personalized diversification of search results,2012,51
+Quality through flow and immersion: gamifying crowdsourced relevance assessments,2012,115
+Improving retrieval of short texts through document expansion,2012,60
+Modeling higher-order term dependencies in information retrieval using query hypergraphs,2012,52
+Predicting quality flaws in user-generated content: the case of wikipedia,2012,62
+ChatNoir: a search engine for the ClueWeb09 corpus,2012,54
+A study of term weighting schemes using class information for text classification,2012,78
+On building a reusable Twitter corpus,2012,55
+Ousting ivory tower research: towards a web framework for providing experiments as a service,2012,65
+Short text classification using very few words,2012,59
+Self-taught hashing for fast similarity search,2010,258
+Personalizing information retrieval for multi-session tasks: the roles of task stage and task type,2010,95
+Predicting searcher frustration,2010,125
+"The good, the bad, and the random: an eye-tracking study of ad quality in web search",2010,108
+Relevance and ranking in online dating systems,2010,50
+Ready to buy or just browsing?: detecting web searcher goals from interaction data,2010,100
+Learning to efficiently rank,2010,54
+On the existence of obstinate results in vector space models,2010,59
+Social media recommendation based on people and tags,2010,214
+Temporal diversity in recommender systems,2010,182
+Information-based models for ad hoc IR,2010,104
+Active Learning for Ranking through Expected Loss Optimization,2015,61
+Evaluating verbose query processing techniques,2010,67
+Multilabel classification with meta-level features,2010,55
+Estimation of statistical translation models based on mutual information for ad hoc information retrieval,2010,57
+DivQ: diversification for keyword search over structured databases,2010,82
+Understanding web browsing behaviors through Weibull analysis of dwell time,2010,169
+Proximity-based opinion retrieval,2010,52
+Evaluating and predicting answer quality in community QA,2010,231
+Adaptive near-duplicate detection via similarity learning,2010,59
+Uncovering social spammers: social honeypots + machine learning,2010,467
+Context-aware ranking in web search,2010,120
+Query similarity by projecting the query-flow graph,2010,58
+The demographics of web search,2010,105
+The effect of assessor error on IR system evaluation,2010,72
+Do user preferences and evaluation measures line up?,2010,108
+Exploring reductions for long web queries,2010,63
+Positional relevance model for pseudo-relevance feedback,2010,143
+Assessing the scenic route: measuring the value of search trails in web logs,2010,95
+Extending average precision to graded relevance judgments,2010,74
+PRES: a score metric for evaluating recall-oriented information retrieval applications,2010,69
+Comparing the sensitivity of information retrieval metrics,2010,83
+Discriminative models of integrating document evidence and document-candidate associations for expert search,2010,59
+Hashtag retrieval in a microblogging environment,2010,124
+Crowdsourcing a wikipedia vandalism corpus,2010,51
+Short text classification in twitter to improve information filtering,2010,550
+Using flickr geotags to predict user travel behaviour,2010,66
+Learning to rank for information retrieval,2010,271
+Estimating the query difficulty for information retrieval,2010,127
+Beliefs and biases in web search,2013,85
+How query cost affects search behavior,2013,52
+Emerging topic detection for organizations from microblogs,2013,78
+An experimental study on implicit social recommendation,2013,100
+Learning to personalize query auto-completion,2013,115
+Mining touch interaction data on mobile devices to predict web search result relevance,2013,58
+Addressing cold-start in app recommendation: latent user models constructed from twitter followers,2013,120
+Opportunity model for e-commerce recommendation: right product; right time,2013,97
+Personalized ranking model adaptation for web search,2013,51
+A novel TF-IDF weighting scheme for effective ranking,2013,87
+Time-aware point-of-interest recommendation,2013,386
+Utilizing query change for session search,2013,57
+Toward whole-session relevance: exploring intrinsic diversity in web search,2013,63
+"Summaries, ranked retrieval and sessions: a unified framework for information access evaluation",2013,57
+Click model-based information retrieval metrics,2013,57
+Incorporating vertical results into search click models,2013,61
+Personalized time-aware tweets summarization,2013,50
+Sumblr: continuous summarization of evolving tweet streams,2013,74
+Exploiting user feedback to learn to rank answers in q&a forums: a case study with stack overflow,2013,58
+A general evaluation measure for document organization tasks,2013,77
+Sentiment analysis of user comments for one-class collaborative filtering over ted talks,2013,53
+Improving LDA topic models for microblogs via tweet pooling and automatic labeling,2013,221
+Modeling and analysis of cross-session search tasks,2011,117
+The economics in interactive information retrieval,2011,67
+Intentions and attention in exploratory health search,2011,71
+"Bagging gradient-boosted trees for high precision, low variance ranking models",2011,108
+Learning to rank for freshness and relevance,2011,53
+A cascade ranking model for efficient ranked retrieval,2011,102
+SCENE: a scalable two-stage personalized news recommendation system,2011,127
+Inferring and using location metadata to personalize web search,2011,99
+Who should share what?: item-level social influence prediction for users and posts ranking,2011,106
+Crowdsourcing for book search evaluation: impact of hit design on comparative system ranking,2011,111
+Composite hashing with multiple information sources,2011,147
+DOM based content extraction via text density,2011,65
+Social context summarization,2011,72
+Probabilistic factor models for web site recommendation,2011,55
+Collaborative competitive filtering: learning recommender using context of user choice,2011,109
+CLR: a collaborative location recommendation framework based on co-clustering,2011,104
+Functional matrix factorizations for cold-start recommendation,2011,172
+Exploiting geographical influence for collaborative point-of-interest recommendation,2011,597
+Find it if you can: a game for modeling different types of web search success using interaction data,2011,105
+Predicting web searcher satisfaction with existing community-based answers,2011,55
+Competition-based user expertise score estimation,2011,62
+Learning online discussion structures by conditional random fields,2011,57
+Estimation methods for ranking recent information,2011,89
+Efficient manifold ranking for image retrieval,2011,89
+Mining Weakly Labeled Web Facial Images for Search-Based Face Annotation,2011,51
+Intent-aware search result diversification,2011,74
+Parameterized concept weighting in verbose queries,2011,87
+Handling data sparsity in collaborative filtering using emotion and semantic based features,2011,66
+Fast context-aware recommendations with factorization machines,2011,277
+ILDA: interdependent LDA model for learning latent aspects and their ratings from online product reviews,2011,118
+Clickthrough-based latent semantic models for web search,2011,64
+Regularized latent semantic indexing,2011,59
+Multimedia answering: enriching text QA with media information,2011,61
+Evolutionary timeline summarization: a balanced optimization framework via iterative substitution,2011,141
+Collective entity linking in web text: a graph-based method,2011,266
+Query suggestions in the absence of query logs,2011,117
+Multifaceted toponym recognition for streaming news,2011,67
+"System effectiveness, user models, and user utility: a conceptual framework for investigation",2011,76
+Evaluating the synergic effect of collaboration in information seeking,2011,82
+Repeatable and reliable search system evaluation using crowdsourcing,2011,62
+Faster top-k document retrieval using block-max indexes,2011,129
+Evaluating diversified search results using per-intent graded relevance,2011,119
+Evaluating multi-query sessions,2011,59
+Quantifying test collection quality based on the consistency of relevance judgements,2011,56
+"When documents are very long, BM25 fails!",2011,57
+Detecting seasonal queries by time-series analysis,2011,54
+Context-aware query classification,2009,128
+Refined experts: improving classification in large taxonomies,2009,99
+Good abandonment in mobile and PC internet search,2009,101
+Query dependent pseudo-relevance feedback based on wikipedia,2009,155
+Portfolio theory of information retrieval,2009,201
+Enhancing cluster labeling using wikipedia,2009,118
+Brute force and indexed approaches to pairwise document similarity comparisons with MapReduce,2009,78
+A classification-based approach to question answering in discussion boards,2009,76
+Ranking community answers by modeling question-answer relationships via analogical reasoning,2009,67
+A syntactic tree matching approach to finding similar questions in community-based qa services,2009,180
+On social networks and collaborative recommendation,2009,463
+Learning to recommend with social trust ensemble,2009,516
+Fast nonparametric matrix factorization for large-scale collaborative filtering,2009,128
+Building enriched document representations using aggregated anchor text,2009,55
+Named entity recognition in query,2009,210
+A proximity language model for information retrieval,2009,61
+Positional language models for information retrieval,2009,172
+Sources of evidence for vertical selection,2009,146
+Click-through prediction for news queries,2009,52
+Smoothing clickthrough data for web search ranking,2009,81
+Predicting user interests from contextual information,2009,151
+A comparison of query and term suggestion features for interactive searching,2009,93
+Combining audio content and social context for semantic music discovery,2009,57
+Automatic video tagging using content redundancy,2009,85
+SUSHI: scoring scaled samples for server selection,2009,54
+On rank correlation and the distance between rankings,2009,60
+On the local optimality of LambdaRank,2009,66
+Placing flickr photos on a map,2009,237
+CrowdReranking: exploring multiple search engines for visual search reranking,2009,67
+The wisdom of the few: a collaborative filtering approach based on expert opinions from the web,2009,101
+Personalized tag recommendation using graph-based ranking on multi-type interrelated objects,2009,105
+Reducing long queries using query quality predictors,2009,147
+Extracting structured information from user queries with semi-supervised conditional random fields,2009,85
+Telling experts from spammers: expertise ranking in folksonomies,2009,56
+Detecting Spammers and Content Promoters in Online Video Social Networks,2009,164
+Improving search relevance for implicitly temporal queries,2009,101
+Multiview clustering: a late fusion approach using latent models,2009,53
+A ranking approach to keyphrase extraction,2009,85
+Reciprocal rank fusion outperforms condorcet and individual rank learning methods,2009,183
+Temporal collaborative filtering with adaptive neighbourhoods,2009,83
+Transforming patents into prior-art queries,2009,55
+Modelling interaction with economic models of search,2014,60
+Fine-grained location extraction from tweets with temporal awareness,2014,60
+Gaussian process factorization machines for context-aware recommendations,2014,50
+Addressing cold start in recommender systems: a semi-supervised co-training algorithm,2014,83
+Explicit factor models for explainable recommendation based on phrase-level sentiment analysis,2014,259
+Impact of response latency on user behavior in web search,2014,65
+Towards better measurement of attention and satisfaction in mobile search,2014,86
+Evaluation of machine-learning protocols for technology-assisted review in electronic discovery,2014,74
+Supervised hashing with latent factor models,2014,131
+Predicting the popularity of web 2.0 items based on user comments,2014,56
+Partitioned Elias-Fano indexes,2014,66
+Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction,2014,94
+Entity query feature expansion using knowledge base links,2014,148
+Discriminative coupled dictionary hashing for fast cross-media retrieval,2014,68
+Latent semantic sparse hashing for cross-modal similarity search,2014,149
+Learning user reformulation behavior for query auto-completion,2014,61
+IMRank: influence maximization via finding self-consistent ranking,2014,54
+Win-win search: dual-agent stochastic game in session search,2014,66
+"Searching, browsing, and clicking in a search session: changes in user behavior by task and over time",2014,69
+Query expansion for mixed-script information retrieval,2014,63
+Click-through-based cross-view learning for image search,2014,61
+Just-for-me: an adaptive personalization system for location-aware social music recommendation,2014,55
+ERD'14: entity recognition and disambiguation challenge,2014,84
+Searching by Talking: Analysis of Voice Queries on Mobile Web Search,2016,67
+Learning to Respond with Deep Neural Networks for Retrieval-Based Human-Computer Conversation System,2016,134
+Learning to Rank with Selection Bias in Personal Search,2016,72
+Topic Modeling for Short Texts with Auxiliary Word Embeddings,2016,84
+Discrete Collaborative Filtering,2016,91
+GeoBurst: Real-Time Local Event Detection in Geo-Tagged Tweet Streams,2016,80
+Collaborative Filtering Bandits,2015,90
+Fast Matrix Factorization for Online Recommendation with Implicit Feedback,2016,294
+Composite Correlation Quantization for Efficient Multimodal Retrieval,2016,54
+A Dynamic Recurrent Model for Next Basket Recommendation,2016,109
+Multi-Rate Deep Learning for Temporal Recommendation,2016,63
+Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder,2016,77
+Image-Based Recommendations on Styles and Substitutes,2015,597
+Multiple Social Network Learning and Its Application in Volunteerism Tendency Prediction,2015,50
+Fielded Sequential Dependence Model for Ad-Hoc Entity Retrieval in the Web of Data,2015,52
+Monolingual and Cross-Lingual Information Retrieval Models Based on (Bilingual) Word Embeddings,2015,150
+Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks,2015,403
+Context- and Content-aware Embeddings for Query Rewriting in Sponsored Search,2015,62
+Learning Hierarchical Representation Model for NextBasket Recommendation,2015,130
+Rank-GeoFM: A Ranking based Geographical Factorization Method for Point of Interest Recommendation,2015,150
+"GeoSoCa: Exploiting Geographical, Social and Categorical Correlations for Point-of-Interest Recommendations",2015,123
+Learning to Reweight Terms with Distributed Representations,2015,65
+Word Embedding based Generalized Language Model for Information Retrieval,2015,121
+Twitter Sentiment Analysis with Deep Convolutional Neural Networks,2015,244
+LBMCH: Learning Bridging Mapping for Cross-modal Hashing,2015,65
+End-to-End Neural Ad-hoc Ranking with Kernel Pooling,2017,143
+Neural Ranking Models with Weak Supervision,2017,146
+Deep Learning for Extreme Multi-label Text Classification,2017,105
+Item Silk Road: Recommending Items from Information Domains to Social Users,2017,90
+Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention,2017,223
+Neural Rating Regression with Abstractive Tips Generation for Recommendation,2017,61
+Neural Factorization Machines for Sparse Predictive Analytics,2017,395
+Relevance-based Word Embedding,2017,76
+IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models,2017,171
+Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture,2017,52
+Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks,2018,163
+Adversarial Personalized Ranking for Recommendation,2018,81
+Equity of Attention: Amortizing Individual Fairness in Rankings,2018,50
+Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks,2018,62
+Texygen: A Benchmarking Platform for Text Generation Models,2018,79
+Neural Graph Collaborative Filtering,2019,119
