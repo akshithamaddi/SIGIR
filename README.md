@@ -1,4 +1,5 @@
 # SIGIR
+<pre>
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── processed      <- The final, data sets for analysis
@@ -30,3 +31,4 @@
     │
     └── visualization  <- Scripts to create exploratory visualizations using tableau
         └── SIGIR_visualizations.twb
+</pre>
